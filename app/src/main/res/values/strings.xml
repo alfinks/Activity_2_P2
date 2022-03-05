@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Activity_2</string>
+    <string name="tEmail">Masukan Email</string>
+    <string name="tPassword">Masukan Password</string>
+    <string name="bsignin">Sign-In</string>
+</resources>
